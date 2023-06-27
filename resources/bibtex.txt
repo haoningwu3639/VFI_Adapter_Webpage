@@ -2,5 +2,5 @@
       title={Boost Video Frame Interpolation via Motion Adaptation}, 
       author={Haoning Wu and Xiaoyun Zhang and Weidi Xie and Ya Zhang and Yanfeng Wang},
       year={2023},
-      journal={arXiv preprint arXiv:2306.xxxxx},
+      journal={arXiv preprint arXiv:2306.13933},
 }
